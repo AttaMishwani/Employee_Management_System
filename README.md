@@ -88,12 +88,6 @@ Your app will be available at the GitHub Pages URL specified in the repository.
 
 ---
 
-## **Screenshots** 📸
-
-*(Add screenshots of your application here to showcase its features.)*
-
----
-
 ## **Contributing** 🤝
 
 Contributions are always welcome! If you'd like to contribute:
