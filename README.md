@@ -119,6 +119,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 If you have any questions or feedback, feel free to reach out:  
 [**GitHub Profile**](https://github.com/attamishwani)
-```
 
-This version is properly formatted for Markdown and will render well on GitHub. Copy and paste the above code directly into your `README.md` file.
